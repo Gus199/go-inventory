@@ -1,21 +1,23 @@
 
-import DevicesList from '../components/DevicesList'
+// import DevicesList from '../components/DevicesList'
+//  import {DeviceProvider} from '../context/DeviceContext'
 
 
 
 
-function Home( ) {
+// function Home( ) {
  
+//   return (
+//       <DeviceProvider>
+//     <div className='Home'>
   
-  return (
-    <div className='Home'>
-     {/* {error && <div>{error}</div>}
-      {isLoading && <div>Loading...</div>} */}
-    <DevicesList  />
+//     <DevicesList  />
+   
    
         
-    </div>
-  )
-}
+//     </div>
+//     </DeviceProvider>
+//   )
+// }
 
-export default Home
+// export default Home

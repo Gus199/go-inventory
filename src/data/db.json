@@ -1,0 +1,22 @@
+{
+  "devices": [
+    {
+      "name": "WORLD WILL ",
+      "Description": "sdfewgrwggrgrgg",
+      "Category": "Iphone",
+      "id": 4
+    },
+    {
+      "name": "Appple Macbook pro 2012",
+      "Description": "this is another test for us",
+      "Category": "Macbook",
+      "id": 5
+    },
+    {
+      "name": "iPhone 11 pro",
+      "Description": "goooood ",
+      "Category": "Iphone",
+      "id": 6
+    }
+  ]
+}
