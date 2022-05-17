@@ -1,12 +1,12 @@
-import Navbar from './Navbar';
-import Home from './Home';
-import About from './About';
-import Create from './Create';
+import Navbar from './components/Navbar';
+import Home from './pages/Home';
+import About from './pages/About';
+import Create from './pages/Create';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import './App.css';
-import DeviceDetails from './DeviceDetails';
-import NotFound from './404';
-import Update from './Update';
+import DeviceDetails from './components/DeviceDetails';
+import NotFound from './pages/404';
+
 
 
 function App() {
@@ -23,7 +23,7 @@ function App() {
       <Route path='/create' element={<Create />}/>
       <Route path='/about' element={<About/>} />
       <Route path='/devices/:id' element={<DeviceDetails/>} />
-      <Route path='/edit/:id' element={<Update/>} />
+    
       <Route path='*' element={<NotFound/>} />
       </Routes>
     </div>

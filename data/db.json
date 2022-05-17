@@ -1,26 +1,22 @@
 {
   "devices": [
     {
-      "name": "My new Device",
-      "body": "lorem ipsum...",
-      "author": "mario",
-      "id": 1
-    },
-    {
-      "name": "Welcome to Add world!",
-      "body": "lorem ipsum...",
-      "author": "yoshi",
-      "id": 2
-    },
-    {
-      "name": "devices top sell",
-      "body": "lorem ipsum...",
-      "author": "mario",
-      "id": 3
-    },
-    {
-      "name": "This is a new Updat",
+      "name": "WORLD WILL ",
+      "Description": "sdfewgrwggrgrgg",
+      "Category": "Iphone",
       "id": 4
+    },
+    {
+      "name": "Appple Macbook pro 2012",
+      "Description": "this is another test for us",
+      "Category": "Macbook",
+      "id": 5
+    },
+    {
+      "name": "iPhone 11 pro",
+      "Description": "goooood ",
+      "Category": "Iphone",
+      "id": 6
     }
   ]
 }
